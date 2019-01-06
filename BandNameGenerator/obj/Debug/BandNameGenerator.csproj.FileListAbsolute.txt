@@ -1,0 +1,6 @@
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.pdb
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.csprojAssemblyReference.cache
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.pdb

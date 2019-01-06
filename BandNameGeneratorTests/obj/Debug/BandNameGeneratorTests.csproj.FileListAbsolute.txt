@@ -1,0 +1,16 @@
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGeneratorTests.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGeneratorTests.pdb
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGenerator.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGenerator.pdb
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.csprojAssemblyReference.cache
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.csproj.CoreCompileInputs.cache
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.csproj.CopyComplete
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.dll
+C:\Users\k.ko29\Documents\kata\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.pdb
